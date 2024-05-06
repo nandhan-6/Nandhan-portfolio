@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+font-family: "Young Serif", serif;
+font-weight: 400;
+font-style: normal;
+}
+.head
+{
+padding: 20px;
+color: white;
+background-color: black;
+}
+.name
+{
+font-size: 60PX; 
+}
+.role
+{
+font-size: 30px;
+margin-top: 10px;
+}
+.contact
+{
+text-decoration: none;
+background-color: orangered;
+color: white;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-top: 10px;
+}
+.container
+{
+padding: 50px;
+}
+.section_two
+{
+    margin-top: 20px;
+
+}
+.section_two_dis
+{
+    margin-top: 10px;
+}
+.section_three
+{
+  display: inline-block;
+    background-color: #6462FD;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top:20px;
+    height: 200px;
+    vertical-align: top;
+    
+}
+li
+{
+    list-style: none;
+}
+
+.section_four
+{
+    display: inline-block;
+    margin-top:20px;
+    background-color: orangered;
+    padding: 20px;
+    border-radius: 10px;
+    height: 200px;
+    
+}
+
+.section_five
+{
+    margin-top:20px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
